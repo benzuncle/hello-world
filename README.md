@@ -1,2 +1,3 @@
 # hello-world
-just start
+just startfi
+this is my first time to write something.
